@@ -1,5 +1,6 @@
 print("hello world")
-a=34
-b=48
+print('введите пожалйуста число а ,затем b ')
+readln (a)
+readln (b)
 c=a+b
-print(c)
+print('сумма а и b равна ='c)
